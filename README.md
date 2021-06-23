@@ -1,14 +1,19 @@
 # Tugas10-311810225
+
 Koneksi.Php
+
 ![Koneksi](https://user-images.githubusercontent.com/46749088/123141985-2e729e80-d483-11eb-85d2-5a0c946b7c94.PNG)
 
 Index.Php
+
 ![Index](https://user-images.githubusercontent.com/46749088/123142057-40ecd800-d483-11eb-9a08-e5c1c096ae2d.PNG)
 
 Form Input
+
 ![Form Input](https://user-images.githubusercontent.com/46749088/123142159-54983e80-d483-11eb-9933-060cb11dd9e9.PNG)
 
 Tampilan Input
+
 ![TAMPILAN INPUT](https://user-images.githubusercontent.com/46749088/123142252-6d085900-d483-11eb-862c-b915b8fb6e1a.PNG)
 
 Add.Php
